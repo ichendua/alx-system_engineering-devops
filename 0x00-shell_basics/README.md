@@ -1,1 +1,1 @@
-Create a symbolic link to
+script that copies
