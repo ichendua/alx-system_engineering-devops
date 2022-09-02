@@ -1,1 +1,1 @@
-script that copies
+Create a script that moves all files
