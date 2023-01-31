@@ -1,4 +1,7 @@
 #!/usr/bin/env bash
 # This script displays a list of currently running processes
+# Must show all processes, list of currently running processess
+# Display a user-oriented format
+# Show process hierarchy
 
 ps -a -x -u -f
